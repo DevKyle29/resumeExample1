@@ -6,9 +6,20 @@ body{
 
 header {
   text-align: center;
+ background-color:blue;}
+
+#heading{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 110%;
+  background-color: gray;
 }
 
 footer {
   background-color: #343330;
   text-align: center;
+}
+
+#sidebar {
+       width:20%;
+ background-color:red;
 }
