@@ -17,13 +17,31 @@ header {
 footer {
   background-color:#7ae9f8;
   text-align:center;
-
-
 }
+
 
 #sidebar {
-       width:20%;
+       width:15%;
  background-color:#7ae9f8;
+ padding: 0rem;
+ color:black;
 }
 
+.navlist{
+  list-style-type: none;
+  padding: 0%;
+}
 
+#profilePhoto{
+  width: 20%;
+  height: 20%;
+ border-radius: 50% ;
+ border: 3px solid orange;
+
+}
+.icons{
+  width:3rem ;
+  margin: 3rem;
+  height: 3rem;
+
+}
